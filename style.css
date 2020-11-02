@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    margin-left: 20px;
+    color: white;
+}
+.question{
+    font-size: 30px;
+    font-weight: 100s;
+    color: black;
+}
+div{
+    margin: 20px;
+}
+.ques1{
+    background-color:#f3b96d;
+    border-radius: 15px;
+    margin-top: 20px;
+    border-color: brown;
+}
+.ques2{
+    background-color:#f3b96d;
+    border-radius: 15px;
+    margin-top: 20px;
+    border-color: brown;
+}.ques3{
+    background-color:#f3b96d;
+    border-radius: 15px;
+    margin-top: 20px;
+    border-color: brown;
+}.ques4{
+    background-color:#f3b96d;
+    border-radius: 15px;
+    margin-top: 20px;
+    border-color: brown;
+}
+.ans{
+    color: black;
+}
+.sub{
+    width= 40px;
+    background-color: rgb(75, 75, 241);
+    border: transparent;
+    
+    font-size: 20px;
+}
+.sub:hover{
+    border-radius: 20px;
+    color: thistle;
+}
